@@ -691,7 +691,9 @@ body {
     text-align: center;
 }
 
-
-
+/* Style for profile views*/
+table, th, td {
+  border: 1px solid black;
+}
 
 
